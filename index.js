@@ -84,18 +84,3 @@ async function refreshStatus() {
                 { name: '🟢  STATUS', value: `\`\`\`\nOperational\n\`\`\``, inline: true },
                 { name: '⏱️  UPTIME', value: `\`\`\`\n${getUptime()}\n\`\`\``, inline: true },
                 { name: '🌐  REGION', value: '
-http://googleusercontent.com/immersive_entry_chip/0
-
-4. Click the green **"Commit changes..."** button to save it.
-
----
-
-### Step 2: Connect it to Render
-
-Now that your GitHub files are ready and saved, copy your GitHub repository link from your address bar (it should look like `https://github.com/ahlanjuliusderamos-netizen/drawps-status-bot`).
-
-1. Open your **Render Dashboard** tab.
-2. Tap the **Public Git Repository** tab.
-3. Paste your GitHub link into the box and click **Connect**.
-
-Let me know what screen pops up on Render as soon as you hit connect!
