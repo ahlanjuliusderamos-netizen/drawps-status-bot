@@ -1,0 +1,13 @@
+{
+  "name": "drawps-growsoft-status",
+  "version": "1.0.0",
+  "description": "Premium Growtopia Private Server Status Bot for Growsoft hosting",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mysql2": "^3.9.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
